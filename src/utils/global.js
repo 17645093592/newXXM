@@ -27,7 +27,8 @@ const global = {
     // BASE_URL: 'http://192.168.1.81:8085/', // 王子测试
     // BASE_URL: 'http://192.168.1.104:8085/', // 王未之测试
     // BASE_URL: 'http://192.168.1.184:8085/', // 天罡
-    BASE_URL: 'http://112.35.77.123:28090/',
+    // BASE_URL: 'http://112.35.77.123:28090/',
+    BASE_URL: 'http://localhost:8888/api/private/v1/',
 
     // -------------------- ftp --------------------
     // FTP_URL: '/apis', // 生产服务器
